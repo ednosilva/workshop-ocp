@@ -7,5 +7,3 @@ if (file_exists($filename)) {
     echo "Ok";
 }
 ?>
-Você pode criar os dois arquivos pela console do github conforme já fizemos em outros labs.
-O resultado final do repositório deve estar conforme imagem abaixo:
